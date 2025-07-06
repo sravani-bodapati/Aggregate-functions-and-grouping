@@ -1,7 +1,7 @@
 # Aggregate-functions-and-grouping
 Database Schema
 
-The database schema consists of a single table: `employees`.
+The database `employees`.
 
 Employees Table
 - `id` (primary key)
